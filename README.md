@@ -2,6 +2,7 @@
 My machine learning projects so far. 
 
 ## DeepLearningProjectImprovement.ipynb
+[link text]https://github.com/peteranderson20/Machine-Learning/blob/main/DeepLearningProjectImprovement.ipynb
 - first project implementing a model with PyTorch, more of an exploration, with imputation as well
 
 ## Adult.ipynb
